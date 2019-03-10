@@ -12,5 +12,13 @@
     "docker"
   ],
   "author": "Nico De Witte <nico.dewitte@vives.be>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BioBoost/hello-docker-from-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BioBoost/hello-docker-from-node/issues"
+  },
+  "homepage": "https://github.com/BioBoost/hello-docker-from-node#readme"
 }
