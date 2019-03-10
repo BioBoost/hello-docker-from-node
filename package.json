@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/BioBoost/hello-docker-from-node/issues"
   },
-  "homepage": "https://github.com/BioBoost/hello-docker-from-node#readme"
+  "homepage": "https://github.com/BioBoost/hello-docker-from-node#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
